@@ -8,6 +8,7 @@ header {
 main {
     background: lightgreen;
     width: 600px;
+	margin: 0 auto;
     padding: 15px;
     border: solid red 5px;
 }
