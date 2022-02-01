@@ -1,0 +1,20 @@
+header {
+    background: darkblue;
+    color: azure;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+}
+main {
+    background: lightgreen;
+    width: 600px;
+    padding: 15px;
+    border: solid red 5px;
+}
+footer {
+    background: darkorchid;
+    color:lightcoral;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px;
+}
